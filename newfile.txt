@@ -1,2 +1,4 @@
 name
-hello
+Hello World!
+
+Today's lesson is about git.

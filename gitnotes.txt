@@ -1,0 +1,5 @@
+Branches
+git branch //to check where branch currently is
+git checkout <name> //switch branch
+
+git checkout -b <name> //combination
